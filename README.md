@@ -3,4 +3,3 @@ Visualize store performance through interactive charts and KPIs. Analyze sales r
 
 
 ![Vintage Store Dashboard](dashboard.png)
-![Vintage Store Dashboard](images/dashboard.png)
