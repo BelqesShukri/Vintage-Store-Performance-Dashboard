@@ -1,13 +1,14 @@
-Vintage-Sales-Analysis
 
-Power BI Dashboard for Vintage Store Sales Analysis, covering sales performance, profitability, product categories, customer segments, and shipping trends
-
-![Vintage Store Dashboard](dashboard.png)
 
 # Vintage Sales Analysis | Power BI
 The goal was to get a clearer picture of the store's sales and profit performance, understand which products and categories perform best, and explore customer segments and delivery trends.
 
-![Vintage Sales Dashboard](./Dashboard-Overview.png)
+
+![Vintage Store Dashboard](dashboard.png)
+
+
+
+
 
 
 
